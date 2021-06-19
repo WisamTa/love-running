@@ -98,3 +98,24 @@ h1, h2
     position: absolute;
 
 }
+
+#club-ethos {
+    height: 600px;
+}
+#left-about {
+    float: left;
+    background-color: blue;
+    width: 33%;
+    padding-top: 30px;
+}
+#right-about {
+    float: right;
+    background-color: silver;
+    width: 33%;
+    padding-top: 30px;
+}
+#center-about {
+    margin: 0 auto;
+    background-color: green;
+    width: 33%;
+}
